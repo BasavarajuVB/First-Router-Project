@@ -1,0 +1,16 @@
+/* Write your CSS code here */
+/* Write your CSS code here */
+.home-heading {
+  color: #000;
+  font-family: 'roboto';
+  font-size: 32px;
+}
+.home-container {
+  height: 70vh;
+  padding: 2px;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  flex-direction: column;
+  background-color: #fff;
+}
